@@ -5,7 +5,7 @@
 - 👀 I’m interested in building some Machine Learning/ Data Science/ AI/ Blockchain / Defi products.
 - 🌱 I have a done a lot of projects in ML, web development, blockchain, finance etc. 
 - 🌐 Reach out to me: [Pranjal Verma LinkedIn](https://www.linkedin.com/in/pranjal-verma-536948246/)
-- 🌟 Interesting fact: I am fond of implementing new ideas and in that way, I learned all these tech stacks.
+- 🌟 Interesting fact: I am fond of implementing new ideas, and that is how I learned all these tech stacks.
 
 
 <!---
