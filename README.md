@@ -5,7 +5,7 @@
 </picture>
 
 <!--
-**IshanTiwari0112/IshanTiwari0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pranjalverma78/pranjalverma782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
